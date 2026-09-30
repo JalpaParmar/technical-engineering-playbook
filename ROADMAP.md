@@ -29,8 +29,8 @@ High-value Q&A, scenarios, checklists, playbooks and cheat sheets. Prefer canoni
 ## Phase 9 — Interview Master
 Role-specific packs: Mobile Tech Lead, iOS Tech Lead, TPM, Technical Program Manager, Software Architect, AI Project Manager, System Design and Cloud/DevOps.
 
-## Phase 10 — Repository Audit
-Accuracy, current terminology, internal links, duplication, code quality, navigation, mobile readability and coverage.
+## Phase 10 — Repository Audit ✅
+Accuracy, terminology, claims, structure, navigation, maintainability, interview usability and coverage audited. See [AUDIT.md](AUDIT.md).
 
 ## Gate rule
 A phase does **not** start automatically. Complete and review the current phase first.
