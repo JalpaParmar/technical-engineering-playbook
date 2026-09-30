@@ -1,3 +1,13 @@
-# DevOps & CI/CD
+# DevOps & CI/CD — Strong Track
 
-Planned Phase 4 coverage: pipelines, environments, testing gates, mobile CI/CD, release strategies, feature flags, rollback and observability.
+## Learning map
+- [CI/CD Fundamentals](CI-CD.md)
+- [GitHub Actions & Azure DevOps](Pipelines.md)
+- [Docker & Environments](Docker-Environments.md)
+- [Deployment Strategies](Deployment-Strategies.md)
+- [Secrets, Supply Chain & Quality Gates](Pipeline-Security.md)
+- [Release & Observability](Release-Operations.md)
+- [DevOps Q&A](QUESTIONS-ANSWERS.md)
+- [Hands-On Exercises](HANDS-ON-EXERCISES.md)
+
+DevOps is a delivery/operating system: source → build → verify → artifact → deploy → observe → learn.
