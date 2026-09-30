@@ -1,3 +1,13 @@
-# Debugging & Incidents
+# Debugging & Incident Engineering — Strong Track
 
-Planned Phase 5 coverage: evidence-driven debugging, stabilization, RCA, validation, monitoring and recurrence prevention across mobile/backend/cloud scenarios.
+## Learning map
+- [Evidence-Driven Debugging](Debugging-Method.md)
+- [Logs, Metrics & Traces](Telemetry.md)
+- [Incident Management](Incident-Management.md)
+- [RCA](RCA.md)
+- [Common Failure Scenarios](SCENARIOS.md)
+- [Incident Analyzer](Incident-Analyzer.md)
+- [Q&A](QUESTIONS-ANSWERS.md)
+- [Exercises](HANDS-ON-EXERCISES.md)
+
+Rule: **hypothesis ≠ root cause**. Stabilize impact, gather evidence, isolate, validate and prevent recurrence.
