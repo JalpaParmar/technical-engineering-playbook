@@ -6,6 +6,10 @@ A durable technical knowledge base for **mobile engineering, architecture, APIs,
 
 ## Start here
 - [Start Here](00-Start-Here/README.md)
+- [Use-Case Navigation](00-Start-Here/USE-CASE-NAVIGATION.md)
+- [Master 30-Minute Revision](16-Cheat-Sheets/Master-30-Minute.md)
+- [Master Interview Q&A](15-Interview-Master/MASTER-QA.md)
+- [Master Scenario Bank](15-Interview-Master/MASTER-SCENARIOS.md)
 - [Roadmap](ROADMAP.md)
 - [Glossary](GLOSSARY.md)
 - [Authoring & contribution standards](CONTRIBUTING.md)
@@ -66,6 +70,6 @@ Substantial topics may include a relevant subset of: concepts, Q&A, examples, sc
 
 ## Status
 **Phase 1: Complete — repository foundation.**  
-**Phase 2: Approval-gated — Deep Mobile Engineering.**
+**Phases 1–8: Built through consolidation.**
 
 See [ROADMAP.md](ROADMAP.md) for scope and acceptance gates.
