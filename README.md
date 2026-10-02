@@ -6,6 +6,8 @@ A durable technical knowledge base for **mobile engineering, architecture, APIs,
 
 ## Start here
 - [Start Here](00-Start-Here/README.md)
+- [Start Here by Role](START-HERE-BY-ROLE.md)
+- [Career Utility](19-Career-Utility/README.md)
 - [Learning Plan](00-Start-Here/LEARNING-PLAN.md)
 - [Use-Case Navigation](00-Start-Here/USE-CASE-NAVIGATION.md)
 - [Master 30-Minute Revision](16-Cheat-Sheets/Master-30-Minute.md)
